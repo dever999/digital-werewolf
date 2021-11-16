@@ -95,8 +95,7 @@ export default {};
   cursor: pointer;
   transition: 0.3s;
 }
-.img-2:hover,
-.header-logo:after:hover.img-2:hover {
+.header-logo:hover .img-2:hover {
   filter: hue-rotate(120deg);
 }
 .header-logo:after {
