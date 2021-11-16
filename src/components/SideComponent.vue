@@ -114,6 +114,7 @@ ul {
 .extension > div > img {
   width: 16px;
   height: 11px;
+  cursor: pointer;
 }
 .extension-group {
   padding: 0;
@@ -132,6 +133,7 @@ ul {
   font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
   margin: 0;
   padding: 7px 0;
+  cursor: pointer;
 }
 .extension-group-flag > img {
   width: 30px;
@@ -154,6 +156,7 @@ ul {
 .near-contact > ul > li {
   display: flex;
   grid-gap: 7px;
+  cursor: pointer;
 }
 .near-contact > ul > li > img {
   width: 37px;
@@ -189,6 +192,7 @@ ul {
   align-items: center;
   padding: 10px 13px;
   border: 1px solid #c5a971;
+  cursor: pointer;
 }
 .function-tool > div > img {
   width: 16px;
