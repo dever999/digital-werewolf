@@ -62,7 +62,7 @@
         <img src="../assets/images/aside-icons/voice.png" alt="voice" />
       </div>
       <div class="version">
-        <h4>V2.0</h4>
+        <h4><a href="https://github.com/digital-werewolf">V2.0</a></h4>
       </div>
       <div class="bug">
         <img src="../assets/images/aside-icons/bug.png" alt="bug" />
@@ -190,6 +190,10 @@ ul {
 .function-tool .version {
   color: gray;
   border: none;
+}
+.function-tool .version > h4 > a {
+  color: gray;
+  text-decoration: none;
 }
 .function-tool > div {
   display: flex;
