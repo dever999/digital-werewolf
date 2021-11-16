@@ -1,7 +1,10 @@
 <template>
   <div class="container">
     <h1>DIGITAL WEREWOLF</h1>
-    <p>Welcome to the Digital Werewolf battle - the world's most engaging fighting game.</p>
+    <p>
+      Welcome to the Digital Werewolf battle - the world's most engaging
+      fighting game.
+    </p>
     <h3>INTRODUCTION</h3>
   </div>
 </template>
@@ -39,5 +42,9 @@ h3 {
   font-weight: 700;
   line-height: 16px;
   padding: 12.8px 32px;
+}
+h3:hover {
+  cursor: pointer;
+  border: 2px solid #ffb114;
 }
 </style>
