@@ -133,7 +133,13 @@ ul {
   font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
   margin: 0;
   padding: 7px 0;
+  transition: 0.3s;
+}
+.extension-group > ul:hover,
+.function-tool > div:hover,
+.near-contact > ul > li:hover {
   cursor: pointer;
+  background: rgba(255, 255, 255, 0.212);
 }
 .extension-group-flag > img {
   width: 30px;
@@ -156,7 +162,6 @@ ul {
 .near-contact > ul > li {
   display: flex;
   grid-gap: 7px;
-  cursor: pointer;
 }
 .near-contact > ul > li > img {
   width: 37px;
@@ -192,7 +197,6 @@ ul {
   align-items: center;
   padding: 10px 13px;
   border: 1px solid #c5a971;
-  cursor: pointer;
 }
 .function-tool > div > img {
   width: 16px;
