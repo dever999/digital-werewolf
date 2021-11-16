@@ -43,6 +43,7 @@
     <div class="header-profile">
       <div class="header-profile-avatar">
         <img src="../assets/images/aside-icons/avatar-wrapper.png" />
+        <p class="header-profile-rank">{{ this.$store.state.rank }}</p>
       </div>
       <div class="header-profile-infor">
         <ul>
@@ -183,6 +184,11 @@ export default {};
 .header-profile-avatar > img {
   width: 67px;
   height: 100%;
+}
+.header-profile-rank {
+  position: absolute;
+  top: 28px;
+  right: 200px;
 }
 .header-profile-infor {
   display: flex;
