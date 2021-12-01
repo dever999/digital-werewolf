@@ -2,126 +2,126 @@
     "name": "Aatrox",
     "id": "533",
     "status": "online",
-    "cover": "../assets/images/cover_background/1.jpg",
-    "avatar": "../assets/images/avatar/1.jpg",
+    "cover": "./assets/images/cover_background/1.jpg",
+    "avatar": "./assets/images/avatar/1.jpg",
     "recent": "20:00"
 }, {
     "name": "Ahri",
     "id": "33",
     "status": "not available",
-    "cover": "../assets/images/cover_background/2.jpg",
-    "avatar": "../assets/images/avatar/2.jpg",
+    "cover": "./assets/images/cover_background/2.jpg",
+    "avatar": "./assets/images/avatar/2.jpg",
     "recent": "08:55"
 }, {
     "name": "Akali",
     "id": "33",
     "status": "offline",
-    "cover": "../assets/images/cover_background/3.jpg",
-    "avatar": "../assets/images/avatar/3.jpg",
+    "cover": "./assets/images/cover_background/3.jpg",
+    "avatar": "./assets/images/avatar/3.jpg",
     "recent": "10:40"
 }, {
     "name": "Zyra",
     "id": "3",
     "status": "not available",
-    "cover": "../assets/images/cover_background/4.jpg",
-    "avatar": "../assets/images/avatar/4.jpg",
+    "cover": "./assets/images/cover_background/4.jpg",
+    "avatar": "./assets/images/avatar/4.jpg",
     "recent": "16:32"
 }, {
     "name": "Yasuo",
     "id": "35",
     "status": "online",
-    "cover": "../assets/images/cover_background/5.jpg",
-    "avatar": "../assets/images/avatar/5.jpg",
+    "cover": "./assets/images/cover_background/5.jpg",
+    "avatar": "./assets/images/avatar/5.jpg",
     "recent": "15:03"
 }, {
     "name": "Rammus",
     "id": "342",
     "status": "offline",
-    "cover": "../assets/images/cover_background/6.jpg",
-    "avatar": "../assets/images/avatar/6.jpg",
+    "cover": "./assets/images/cover_background/6.jpg",
+    "avatar": "./assets/images/avatar/6.jpg",
     "recent": "09:26"
 }, {
     "name": "Varus",
     "id": "34",
     "status": "online",
-    "cover": "../assets/images/cover_background/7.jpg",
-    "avatar": "../assets/images/avatar/7.jpg",
+    "cover": "./assets/images/cover_background/7.jpg",
+    "avatar": "./assets/images/avatar/7.jpg",
     "recent": "01:02"
 }, {
     "name": "Yone",
     "id": "94",
     "status": "offline",
-    "cover": "../assets/images/cover_background/8.jpg",
-    "avatar": "../assets/images/avatar/8.jpg",
+    "cover": "./assets/images/cover_background/8.jpg",
+    "avatar": "./assets/images/avatar/8.jpg",
     "recent": "23:47"
 }, {
     "name": "Nasus",
     "id": "22",
     "status": "not available",
-    "cover": "../assets/images/cover_background/9.jpg",
-    "avatar": "../assets/images/avatar/9.jpg",
+    "cover": "./assets/images/cover_background/9.jpg",
+    "avatar": "./assets/images/avatar/9.jpg",
     "recent": "19:00"
 }, {
     "name": "Diana",
     "id": "540",
     "status": "online",
-    "cover": "../assets/images/cover_background/10.jpg",
-    "avatar": "../assets/images/avatar/10.jpg",
+    "cover": "./assets/images/cover_background/10.jpg",
+    "avatar": "./assets/images/avatar/10.jpg",
     "recent": "15:20"
 }, {
     "name": "Vayne",
     "id": "517",
     "status": "online",
-    "cover": "../assets/images/cover_background/11.jpg",
-    "avatar": "../assets/images/avatar/11.jpg",
+    "cover": "./assets/images/cover_background/11.jpg",
+    "avatar": "./assets/images/avatar/11.jpg",
     "recent": "03:59"
 }, {
     "name": "Lee Sin",
     "id": "34",
     "status": "not available",
-    "cover": "../assets/images/cover_background/12.jpg",
-    "avatar": "../assets/images/avatar/12.jpg",
+    "cover": "./assets/images/cover_background/12.jpg",
+    "avatar": "./assets/images/avatar/12.jpg",
     "recent": "06:45"
 }, {
     "name": "Olaf",
     "id": "7",
     "status": "online",
-    "cover": "../assets/images/cover_background/13.jpg",
-    "avatar": "../assets/images/avatar/13.jpg",
+    "cover": "./assets/images/cover_background/13.jpg",
+    "avatar": "./assets/images/avatar/13.jpg",
     "recent": "14:03"
 }, {
     "name": "Graves",
     "id": "80",
     "status": "offline",
-    "cover": "../assets/images/cover_background/14.jpg",
-    "avatar": "../assets/images/avatar/14.jpg",
+    "cover": "./assets/images/cover_background/14.jpg",
+    "avatar": "./assets/images/avatar/14.jpg",
     "recent": "00:01"
 }, {
     "name": "Lulu",
     "id": "26",
     "status": "online",
-    "cover": "../assets/images/cover_background/15.jpg",
-    "avatar": "../assets/images/avatar/1.jpg",
+    "cover": "./assets/images/cover_background/15.jpg",
+    "avatar": "./assets/images/avatar/1.jpg",
     "recent": "20:00"
 }, {
     "name": "Riven",
     "id": "185",
     "status": "online",
-    "cover": "../assets/images/cover_background/16.jpg",
-    "avatar": "../assets/images/avatar/2.jpg",
+    "cover": "./assets/images/cover_background/16.jpg",
+    "avatar": "./assets/images/avatar/2.jpg",
     "recent": "21:00"
 }, {
     "name": "Sona",
     "id": "553",
     "status": "online",
-    "cover": "../assets/images/cover_background/17.jpg",
-    "avatar": "../assets/images/avatar/3.jpg",
+    "cover": "./assets/images/cover_background/17.jpg",
+    "avatar": "./assets/images/avatar/3.jpg",
     "recent": "12:21"
 }, {
     "name": "Talon",
     "id": "306",
     "status": "online",
-    "cover": "../assets/images/cover_background/18.jpg",
-    "avatar": "../assets/images/avatar/4.jpg",
+    "cover": "./assets/images/cover_background/18.jpg",
+    "avatar": "./assets/images/avatar/4.jpg",
     "recent": "17:52"
 }]
