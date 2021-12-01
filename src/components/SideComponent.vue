@@ -28,11 +28,11 @@
         <li @mouseover="mouseOverActive(index, $event)" @mouseleave="mouseLeave">
           <div class="view-table" v-show="isHovering == true">
             <div class="cover-image">
-              <img :src="`${friend.cover}`" />
+              <img :src="`/src/assets/images/cover_background/${friend.cover}.jpg`" />
             </div>
             <div class="avatar-image">
               <img src="../assets/images/aside-icons/platina.png" />
-              <img class="avatar" :src="friend.avatar" />
+              <img class="avatar" :src="`/src/assets/images/avatar/${friend.avatar}.jpg`" />
             </div>
             <div class="intro-desc">
               <h1>{{ friend.name }}</h1>
@@ -42,7 +42,7 @@
               <h4>{{ friend.recent }}</h4>
             </div>
           </div>
-          <img :src="`${friend.avatar}`" />
+          <img :src="`/src/assets/images/avatar/${friend.avatar}.jpg`" />
           <div class="near-contact-statusIcon" :class="{ online: friend.status === 'online', offline: friend.status === 'offline', notAvailable: friend.status === 'not available'}"></div>
           <div>
             <span class="near-contact-name">{{ friend.name }}</span>
